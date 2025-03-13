@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw; border-radius:5%" src="https://shyamalicoolingpoint.com/wp-content/uploads/2023/01/ac-repairing-kolkata.jpg">
+                    <img id="service_iamge" style="height: 30vw; border-radius:5%" src="https://shyamalicoolingpoint.com/wp-content/uploads/2023/01/ac-repairing-kolkata.jpg">
                 </div>
             </div>
         </div>

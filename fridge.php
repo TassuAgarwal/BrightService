@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                <img style="height: 30vw; border-radius:5%" src="https://webtk.sfastservices.com/blogimg/Sfastservices%20Fridge%20Repair.png">
+                <img id="service_iamge" style="height: 30vw; border-radius:5%" src="https://webtk.sfastservices.com/blogimg/Sfastservices%20Fridge%20Repair.png">
                 </div>
             </div>
         </div>

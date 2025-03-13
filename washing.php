@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw; border-radius:5%; width:40vw" src="https://5.imimg.com/data5/ANDROID/Default/2022/7/KW/BE/IX/156285803/prod-20220711-2343105486286076915897373-jpg.jpg">
+                    <img  id="service_iamge" style="height: 30vw; border-radius:5%; width:40vw" src="https://5.imimg.com/data5/ANDROID/Default/2022/7/KW/BE/IX/156285803/prod-20220711-2343105486286076915897373-jpg.jpg">
                 </div>
             </div>
         </div>

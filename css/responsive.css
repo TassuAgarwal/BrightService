@@ -14,17 +14,17 @@
     padding-top: 45px;
   }
 
-  .feature_section .feature_container .box {
+  #feature_section .feature_container .box {
     padding: 30px 15px;
   }
 
-  .feature_section .feature_container .box .img-box {
+  #feature_section .feature_container .box .img-box {
     width: 75px;
   }
 
-  .feature_section {
+  #feature_section {
     transform: none;
-    padding: 90px 0;
+    padding: 40px 0;
   }
 
   .about_section .img-box {
@@ -78,27 +78,32 @@
     font-weight: 600;
   }
 
-  .feature_section .feature_container {
-    flex-direction: column;
+  #feature_section .feature_container {
+    flex-direction: row;
   }
 
-  .feature_section .feature_container .box {
+  #feature_section .feature_container .box {
     padding: 30px 15px;
   }
 
-  .feature_section .feature_container .box:not(:nth-last-child(1)) {
+  #feature_section .feature_container .box:not(:nth-last-child(1)) {
     margin-bottom: 15px;
   }
 
+ #service_iamge {
+  width: 30vw;
+  height: 30vw;
+ }
+
   .about_section .img_container .img-box.b1 {
     margin-top: -5%;
-    height: 50vw;
-    width: 50vw;
+    height: 45vw;
+    width: 45vw;
   }
   .about_section .img_container .img-box.b2 {
     margin-top: -5%;
   }
- 
+
   .contact_section .map_container {
     margin-top: 45px;
   }
@@ -112,7 +117,7 @@
   }
 
   .service_section .service_container .box {
-    flex-basis: 98%;
+    flex-basis: 48%;
   }
 
   .contact_section form {
@@ -134,6 +139,15 @@
     display: none;
   }
 
+  .service_section .service_container .box {
+    flex-basis: 98%;
+  }
+
+  #service_iamge {
+    width: 80vw;
+    /* height: 40vw; */
+   }
+
   .info_section .info_form form {
     flex-direction: column;
   }
@@ -148,10 +162,35 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 430px) {
+  #feature_section .feature_container {
+    flex-direction: row;
+  }
+
+  #feature_section .feature_container .box {
+    padding: 10px 5px;
+    width: 30%;
+  }
+
+  #feature_section .feature_container .box .img-box {
+    width: 75px;
+  }
+
+  #feature_section .feature_container .box .img-box svg {
+    width: 70%;
+    height: 70%;
+    max-height: 70%;
+    fill: #726dae;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  #feature_section .feature_container .box .name {
+    font-size: 15px;
+    margin-top: 5px;}
 }
 
 @media (max-width: 420px) {
+  
   .slider_section .carousel-control-prev,
   .slider_section .carousel-control-next {
     right: 0;
@@ -166,4 +205,3 @@
     max-width: 1170px;
   }
 }
-

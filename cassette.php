@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw; border-radius:5%" src="https://5.imimg.com/data5/SELLER/Default/2024/1/375295854/HJ/LA/ZK/81587249/cassette-ac-repairing-service.png">
+                    <img id="service_iamge" style="height: 30vw; border-radius:5%" src="https://5.imimg.com/data5/SELLER/Default/2024/1/375295854/HJ/LA/ZK/81587249/cassette-ac-repairing-service.png">
                 </div>              
             </div>
         </div>

@@ -31,32 +31,7 @@
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <section id="slider_section">
-            <div class="container ">
-              <div class="row">
-                <div class="col-md-6 ">
-                  <div class="detail-box">
-                    <h1>
-                      Home Appliances Repair & <br>
-                      Maintenance <br>
-                      Service in Delhi
-                    </h1>
-                    <p>
-                      Whether it's your AC, refrigerator, RO water purifier, geyser, or deep freezer, we provide expert installation, maintenance, and repair services. Our certified technicians ensure that your appliances function smoothly, giving you peace of mind all year round.
-                    </p>
-                    <a href="contact.php">
-                      Contact Us
-                    </a>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="img-box">
-                    <img src="images/hero.png" alt="">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </section>
+          <img class="d-block w-100" src="images/banner1.jpg" style="height: 37vw;" alt="Second slide">
         </div>
         <div class="carousel-item">
           <img class="d-block w-100" src="https://www.shreeroshanaircon.com/wp-content/uploads/2020/09/banner2.jpg" style="height: 37vw;" alt="Second slide">

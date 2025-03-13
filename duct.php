@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw; border-radius:5%" src="https://www.trade4asia.com/catalougeimage/instalation-duactable.png">
+                    <img id="service_iamge" style="height: 30vw; border-radius:5%" src="https://www.trade4asia.com/catalougeimage/instalation-duactable.png">
                 </div>
             </div>
         </div>

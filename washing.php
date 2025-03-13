@@ -38,7 +38,7 @@
     <section class="about_section layout_padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-6 col-md-8 col-sm-12">
                     <div class="detail-box">
                         <div class="heading_container">
                             <h2>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw;" src="https://shyamalicoolingpoint.com/wp-content/uploads/2023/01/ac-repairing-kolkata.jpg">
+                    <img style="height: 30vw; border-radius:5%; width:40vw" src="https://5.imimg.com/data5/ANDROID/Default/2022/7/KW/BE/IX/156285803/prod-20220711-2343105486286076915897373-jpg.jpg">
                 </div>
             </div>
         </div>

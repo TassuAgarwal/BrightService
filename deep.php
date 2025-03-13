@@ -38,7 +38,7 @@
     <section class="about_section layout_padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-lg-6 col-md-8 col-sm-12">
                     <div class="detail-box">
                         <div class="heading_container">
                             <h2>
@@ -65,7 +65,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-4 col-sm-12">
-                    <img style="height: 30vw;" src="https://shyamalicoolingpoint.com/wp-content/uploads/2023/01/ac-repairing-kolkata.jpg">
+                    <img style="height: 30vw; width:40vw; border-radius:5%" src="https://aj-appliance-repairs.ca/userfiles/images/Chest%20Freezer%20Repair.png">
                 </div>
             </div>
         </div>

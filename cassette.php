@@ -38,7 +38,7 @@
     <section class="about_section layout_padding">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6 col-md-7 col-sm-12">
+                <div class="col-lg-6 col-md-8 col-sm-12">
                     <div class="detail-box">
                         <div class="heading_container">
                             <h2>
@@ -46,7 +46,7 @@
                             </h2>
                         </div>
                         <p>
-                        Cassette air conditioners are a popular choice for commercial spaces, offices, restaurants, and large rooms due to their sleek design and efficient cooling. However, like any appliance, they require regular maintenance and timely repairs to ensure optimal performance. At <b>Bright AirConditioner</b>, we provide expert cassette AC repair services to diagnose and fix any issues, restoring your cooling system to its best condition.
+                            Cassette air conditioners are a popular choice for commercial spaces, offices, restaurants, and large rooms due to their sleek design and efficient cooling. However, like any appliance, they require regular maintenance and timely repairs to ensure optimal performance. At <b>Bright AirConditioner</b>, we provide expert cassette AC repair services to diagnose and fix any issues, restoring your cooling system to its best condition.
 
                         <h4>Common Cassette AC Problems We Fix</h4>
 
@@ -64,15 +64,9 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="img_container">
-                        <div id="img-box-sq">
-                            <img src="http://5.imimg.com/data5/SELLER/Default/2024/1/375295854/HJ/LA/ZK/81587249/cassette-ac-repairing-service.png" height="350" alt="">
-                        </div>
-                    </div>
-
-                </div>
-
+                <div class="col-lg-6 col-md-4 col-sm-12">
+                    <img style="height: 30vw; border-radius:5%" src="https://5.imimg.com/data5/SELLER/Default/2024/1/375295854/HJ/LA/ZK/81587249/cassette-ac-repairing-service.png">
+                </div>              
             </div>
         </div>
     </section>

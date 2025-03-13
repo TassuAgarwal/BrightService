@@ -48,11 +48,6 @@
   .about_section .img_container .img-box.b2 {
     margin-top: -1%;
   }
-  .about_section .img_container .img-box.b3 {
-    display: none;
-    margin-top: -1%;
-    width: 25vw;
-  }
 }
 
 @media (max-width: 768px) {
@@ -103,10 +98,7 @@
   .about_section .img_container .img-box.b2 {
     margin-top: -5%;
   }
-  .about_section .img_container .img-box.b3 {
-   /* display: none; */
-  }
-
+ 
   .contact_section .map_container {
     margin-top: 45px;
   }
@@ -139,10 +131,6 @@
   }
 
   .about_section .img_container .img-box.b2 {
-    display: none;
-  }
-
-  .about_section .img_container .img-box.b3 {
     display: none;
   }
 
